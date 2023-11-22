@@ -60,6 +60,7 @@ data/*
 raw_reqs.txt
 
 # Rename or add?
-/tutorial/Untitled.ipynb
-/tutorial/Untitled1.ipynb
+/tutorial/*
+!tutorial/Figure_3+4.ipynb
+!tutorial/Figure_5.ipynb
 /sim test.ipynb
