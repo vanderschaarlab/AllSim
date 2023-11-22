@@ -38,13 +38,5 @@ $ pip install .
  pip install allsim[testing]
 ```
 
-## :boom: Sample Usage
-`TODO:` SAMPLE USAGE
-
-## 📓 Tutorials
-
-Basic tutorials are available in the `tutorial/` directory or on google colab
-`TODO:` LINKS!
-
-## 📜 Citation
-`TODO:` citation
+## Usage
+Examples of usage are available in the `tutorial\` directory. These can be used to produce the results of the paper.
