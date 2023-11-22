@@ -36,3 +36,7 @@ $ pip install .
 
 ## Usage
 Examples of usage are available in the `tutorial\` directory. These can be used to produce the results of the paper.
+
+## Data
+
+The data used in the tutorial and paper is private. It is available for members of the van der Schaar Lab. However, the tutorials should still be a useful reference if you want to use AllSim on your own data.
