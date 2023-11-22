@@ -25,17 +25,13 @@ resource allocation compared to current approaches for benchmarking such methods
 
 ## :rocket: Installation
 
-The library can be installed from PyPI using
-```bash
-$ pip install allsim
-```
-or from source, using
+The library can be installed from source, using
 ```bash
 $ pip install .
 ```
  * Install the library with with additional libraries for testing and development
 ```bash
- pip install allsim[testing]
+ pip install .[testing]
 ```
 
 ## Usage
